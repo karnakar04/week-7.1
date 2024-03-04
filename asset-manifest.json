@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/karnakar04/week-7.1/static/css/main.f96f07a4.css",
+    "main.js": "/karnakar04/week-7.1/static/js/main.8189b849.js",
+    "static/js/453.72c9bc08.chunk.js": "/karnakar04/week-7.1/static/js/453.72c9bc08.chunk.js",
+    "static/media/photo1.jpg": "/karnakar04/week-7.1/static/media/photo1.ab6eb81da70b3d008688.jpg",
+    "index.html": "/karnakar04/week-7.1/index.html",
+    "main.f96f07a4.css.map": "/karnakar04/week-7.1/static/css/main.f96f07a4.css.map",
+    "main.8189b849.js.map": "/karnakar04/week-7.1/static/js/main.8189b849.js.map",
+    "453.72c9bc08.chunk.js.map": "/karnakar04/week-7.1/static/js/453.72c9bc08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.8189b849.js"
+  ]
+}
